@@ -1,0 +1,37 @@
+/*.nav.justify-content-center li a {
+    color:darkgoldenrod;
+}
+
+#title {
+    text-align: center;
+    color:darkgoldenrod;
+    font-family: 'Brush Script MT', cursive;
+}
+
+#centery {
+    display: block;
+    text-align: center;
+}
+
+form {
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+}
+
+@media only screen and (max-width 768px) {
+    .col-sm-4.col-lg {
+        width: 50em;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    
+}
+
+@media only screen and (max-width: 320px) {
+    
+} */
+
+.nav.justify-content-center li a{color:#b8860b}#title{text-align:center;color:#b8860b;font-family:'Brush Script MT',cursive}#centery{display:block;text-align:center}form{display:inline-block;margin-left:auto;margin-right:auto;text-align:left}@media only screen and (max-width 768px){.col-sm-4.col-lg{width:50em}}
